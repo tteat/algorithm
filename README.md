@@ -1,2 +1,2 @@
-# algorithm
-Algorithm questions from different sources
+# algorithm 
+:watermelon: Algorithm questions from different sources
